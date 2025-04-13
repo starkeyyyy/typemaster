@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# typemaster
+🧠 TypeMaster - A Monkeytype Clone TypeMaster is a sleek and minimalistic typing speed test web app inspired by Monkeytype. Built for typists, coders, and keyboard enthusiasts, it helps you track and improve your typing speed and accuracy in real time.
+>>>>>>> a8767e8c9353250f0356f60795d963e86d7d1c3e
